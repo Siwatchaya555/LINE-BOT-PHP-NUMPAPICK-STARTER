@@ -37,5 +37,5 @@ if (!is_null($events['events'])) {
 $Topic = "NodeMCU1" ;
 $text = "LineBot";
 getMqttfromlineMsg($Topic,$text);
-echo "WaterBoy";
+echo "LineBot";
 ?>
